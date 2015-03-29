@@ -14,7 +14,7 @@ $(function() {
     this.player1 = new Player('X');
 
     // `this.player1` is a new instance of a Player object.
-    // note that `this.player1.mark` is 'X'.
+    // note that `this.player2.mark` is 'O'.
     this.player2 = new Player('O');
 
     // `this.$boxes` stores the jQuery object of
